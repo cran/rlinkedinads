@@ -1,8 +1,8 @@
-72784f5a27441163e3c8477b9e6a3745 *DESCRIPTION
+c71216ec1179f522a39154e1d0010511 *DESCRIPTION
 5645e376c6b0c000c0488df1d1984852 *LICENSE
 fa297edd9924e65fbff5894a79d55fe4 *NAMESPACE
-9c6bfcddb74f8ce7ca00261fb5075369 *NEWS.md
-7eb9194bc71be810ec64754fe5395abb *R/auth.R
+5cc7a9b1eaa563868f5795fd73299ebb *NEWS.md
+fdc9d250a88bb7d2f09fae1e149ef7b2 *R/auth.R
 81c228ad61dfef063d0a53be65286068 *R/lkd_get_accounts.R
 d505a7813f19b942b8964fe511487af5 *R/lkd_get_accounts_by_authenticated_user.R
 efe4a22374a05ba500c974c1cc4a730c *R/lkd_get_ad_account_users_by_accounts.R
@@ -32,4 +32,4 @@ adc40810e867d2912e027b881e8507cd *man/lkd_set_api_version.Rd
 805ca141c78e92dbd55185bd2a42bb42 *man/lkd_set_client_secret.Rd
 3db516d07b6544ad3ba9c19eb9da645a *man/lkd_set_login.Rd
 2cc95f7cb3f4271804e9a56fd5ad7c72 *man/lkd_set_token_path.Rd
-4c2cd44320c009a727e44e66d5e3e557 *man/rlinkedinads-package.Rd
+35ac9e216ec2971cda00f7a468924e65 *man/rlinkedinads-package.Rd
